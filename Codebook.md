@@ -1,7 +1,6 @@
 #Codebook
 ##Description
 This is a code book that describes the variables, the data, and any transformations or work that I performed to clean up the data, resulting in the file averaged.txt.
-==================================================================
 
 ##Data
 ###Data Set Information
